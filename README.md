@@ -16,3 +16,7 @@ python3 organizador.py
 ```
 
 E ele fará tudo para você, ou quase tudo porque no momento ainda não verifica todas as extensões de arquivos e eu ainda estou estudando novas forma e lógica de criar linhas para o script mover para pastas diferente arquivos com extensões não conhecidas.
+
+
+<img width="633" height="307" alt="Captura_de_tela_20260617_121159" src="https://github.com/user-attachments/assets/47b569ac-87e7-4f5f-b5d5-506bf29c0472" />
+
